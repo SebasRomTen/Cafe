@@ -4834,5 +4834,5 @@ p475.FormFactor = Enum.FormFactor.Custom
 p475.Size = Vector3.new(37.400013, 1.79999804, 2.00000024)
 p475.BottomSurface = Enum.SurfaceType.Smooth
 p475.TopSurface = Enum.SurfaceType.Smooth
-m.Parent = game:service("Workspace")
+m.Parent = script
 m:MakeJoints()
